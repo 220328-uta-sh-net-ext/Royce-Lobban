@@ -1,11 +1,11 @@
-mkdir Revature
-cd Revature
-git clone  https://github.com/220328-uta-sh-net-ext/
-cd training-code
-cd A
-nano Activity.md
-cd ..
-cd ..
-git clone https://github.com/220328-uta-sh-net-ext/Royce-Lobban.git
-cd Royce-Lobban
-nano CommandUsed.md
+- mkdir Revature
+- cd Revature
+- git clone  https://github.com/220328-uta-sh-net-ext/
+- cd training-code
+- cd A
+- nano Activity.md
+- cd ..
+- cd ..
+- git clone https://github.com/220328-uta-sh-net-ext/Royce-Lobban.git
+- cd Royce-Lobban
+- nano CommandUsed.md
